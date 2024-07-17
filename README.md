@@ -2,7 +2,7 @@
 
 ![image](introduction.png)
  <br />
-For obtaining the data for the framework,  please follow the steps:
+For obtaining the data for the MV-BART,  please follow the steps:
 
 Detailed steps: 
 1. First install the dependencies mentioned in the dependencies.txt.
