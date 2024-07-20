@@ -21,4 +21,4 @@ Detailed steps:
 
 
 
-![image](MV_BART_framework.png)
+![image](MV-BART_framework.png)
