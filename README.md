@@ -20,4 +20,4 @@ Detailed steps:
 4. （Low resource migration testing can be conducted by setting the training size in the framework_drive.ipynb file）
 
 
-![image](framework.png)
+
